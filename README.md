@@ -4,7 +4,6 @@ Aluno da **Fatec Ourinhos**, amante de **desenvolvimento de software, jogos, mú
 
 Atualmente, estou desenvolvendo projetos voltados principalmente para programação e desenvolvimento de jogos, explorando diferentes tecnologias e buscando evoluir constantemente como desenvolvedor.
 
-> *"Quando você acorda, o mundo é um borrão. O que era claro no sonho de repente não faz sentido. Sem resgates surreais, sem saída mágica fácil. Mas você está acordado."*
 
 ---
 
@@ -60,6 +59,8 @@ Atualmente, estou desenvolvendo projetos voltados principalmente para programaç
 ---
 
 <div align="center">
+
+> *"Quando você acorda, o mundo é um borrão. O que era claro no sonho de repente não faz sentido. Sem resgates surreais, sem saída mágica fácil. Mas você está acordado."*
 
 ### Obrigado por visitar meu perfil! :]
 
