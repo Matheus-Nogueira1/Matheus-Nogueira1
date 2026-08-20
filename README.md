@@ -15,10 +15,7 @@ Atualmente, estou desenvolvendo projetos voltados principalmente para programaç
 	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
 </div>
 
-<div align="center">
-<img src="https://imgs.search.brave.com/nWoijV0v5YvSNTE_j-wYF14swujl5claX04kIR34CU0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhObXR4WlRrMGQz/b3lkV1p5ZW5JME1Y/VjVNRzkyWmpKd2Vt/aHJkRE5rZG05alpU/TnRkM1V3WlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTlA1Z0h0aWNh/YUg1bDRMaFhULzIw/MC5naWY.gif">
-<br>
-</div>
+
 
 <div align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtxZTk0d3oydWZyeWl4MXV5MG92ZjJwemhrDNkdm9jZTNtd3UwWZnbGdC12MV9naWZzX3NlYXRjaCZjdD1n/NP5gH0tichaH5l4LhXT/200.gif" alt="Coding">
