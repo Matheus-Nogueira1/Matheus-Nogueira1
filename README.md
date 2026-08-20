@@ -1,5 +1,5 @@
 # aluno da Fatec Ourinhos, cursando Análise e Desenvolvimento de Software. 
-Amante de Jogos, Músicas, Filmes e Técnologia :]
+## Amante de Jogos, Músicas, Filmes e Técnologia :]
 ## "Quando você acorda, o mundo é um borrão. O que era claro no sonho de repente não faz sentido. Sem resgates surreais, sem saída mágica fácil. Mas você está acordado."
 </div>
 <div style="display: inline_block"><br>
