@@ -7,21 +7,46 @@ Atualmente, estou desenvolvendo projetos voltados principalmente para programaç
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens de Programação
 
 <div align="center">
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" title="Godot">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++">
 </div>
 
-
+### 🌐 Desenvolvimento Web
 
 <div align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtxZTk0d3oydWZyeWl4MXV5MG92ZjJwemhrDNkdm9jZTNtd3UwWZnbGdC12MV9naWZzX3NlYXRjaCZjdD1n/NP5gH0tichaH5l4LhXT/200.gif" alt="Coding">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript">
 </div>
 
----
+### 🗄️ Banco de Dados
+
+<div align="center">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
+</div>
+
+### 🎮 Desenvolvimento de Jogos
+
+<div align="center">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot Engine" title="Godot Engine">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-wordmark.svg" alt="Godot Engine" title="Godot Engine">
+</div>
+
+### ⚙️ Ferramentas e Ambiente de Desenvolvimento
+
+<div align="center">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub">
+</div>
 
 ## 🎮 Interesses
 
