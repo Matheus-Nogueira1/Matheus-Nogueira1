@@ -15,23 +15,11 @@ Atualmente, estou desenvolvendo projetos voltados principalmente para programaç
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" title="Godot">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++">
-</div>
-
-<div align="center">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript">
-</div>
-
-<div align="center">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
-</div>
-
-<div align="center">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-wordmark.svg" alt="Godot Engine" title="Godot Engine">
-</div>
-
-<div align="center">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub">
