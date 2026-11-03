@@ -1,4 +1,4 @@
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+### 🎓 Técnico em Desenvolvimento de Sistemas
 
 Aluno da **Fatec Ourinhos**, amante de **desenvolvimento de software, jogos, música, filmes e tecnologia**.
 
